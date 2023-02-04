@@ -1,0 +1,1 @@
+web gunicorn sophia-admin-web-app.wsgi:application --log-file -
